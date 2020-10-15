@@ -90,7 +90,7 @@ export default {
   },
   fontSize: {
     icon: fontSize,
-    options: [8, 9, 10, 11, 12, 14, 16, 18, 24, 30, 36, 48, 60, 72, 96],
+    options: ["0.5em", "1em", "1.5em", "2em", "2.5em", "3em", "3.5em", "4em", "4.5em", "5em"],
     className: undefined,
     component: undefined,
     dropdownClassName: undefined,
